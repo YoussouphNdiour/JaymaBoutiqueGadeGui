@@ -1,4 +1,4 @@
-package sn.mdglobalservices.store
+package sn.jayma.store
 
 import io.flutter.embedding.android.FlutterActivity
 

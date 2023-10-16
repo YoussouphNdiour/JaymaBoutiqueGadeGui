@@ -1,79 +1,26 @@
 {
   "project_info": {
-    "project_number": "283159834878",
-    "project_id": "md-global-services",
-    "storage_bucket": "md-global-services.appspot.com"
+    "project_number": "484779040551",
+    "project_id": "jayma-88682",
+    "storage_bucket": "jayma-88682.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:283159834878:android:f398b50e43f83601b235af",
+        "mobilesdk_app_id": "1:484779040551:android:65028b6a70289df9341302",
         "android_client_info": {
-          "package_name": "sn.mdglobalservices.customer"
+          "package_name": "sn.jayma.store"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "283159834878-09smi22cmtg6i33h4n8lkc81tn0amb47.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAqKHEPsf9BzRvLAFTVHPuaT8usA7DFkKA"
+          "current_key": "AIzaSyBUVYWUuubdKlqv6SdA2_hhVRzwhVaJtZk"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "283159834878-09smi22cmtg6i33h4n8lkc81tn0amb47.apps.googleusercontent.com",
-              "client_type": 3
-            },
-            {
-              "client_id": "283159834878-0iih6e49j5bq6ohvb1t501kc5d5meq03.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "sn.mdglobalservices.applicationclient"
-              }
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:283159834878:android:d91572369e70d34ab235af",
-        "android_client_info": {
-          "package_name": "sn.mdglobalservices.store"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "283159834878-09smi22cmtg6i33h4n8lkc81tn0amb47.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyAqKHEPsf9BzRvLAFTVHPuaT8usA7DFkKA"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "283159834878-09smi22cmtg6i33h4n8lkc81tn0amb47.apps.googleusercontent.com",
-              "client_type": 3
-            },
-            {
-              "client_id": "283159834878-0iih6e49j5bq6ohvb1t501kc5d5meq03.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "sn.mdglobalservices.applicationclient"
-              }
-            }
-          ]
+          "other_platform_oauth_client": []
         }
       }
     }
